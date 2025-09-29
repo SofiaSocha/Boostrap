@@ -1,0 +1,50 @@
+
+
+.btn-miboton{
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(23, 75, 66);
+}
+.opciones{
+    box-shadow: 70px;
+    background-color: rgb(43, 128, 226);
+}
+
+.btn btn-outline-success{
+    color: #000;
+}
+.carousel-item img {
+    object-fit: cover;
+    width: 800px;
+    height: 400px;
+}
+
+.abca{
+    text-align: center;
+    margin: 40px;
+}
+
+.tab {
+ margin: 40px;
+  min-height: 100vh;        /* Ocupa toda la altura */
+}
+
+
+.listapelicula{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.pelicula{
+    padding: 10;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
